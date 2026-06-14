@@ -1,2 +1,2 @@
 # Task_Management
-A task management web application for creating, updating, and tracking tasks.
+A task management web application for creating, updating, and tracking tasks. Task Management Application is a full-stack web application developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It enables users to create, update, delete, and track tasks through an intuitive and responsive interface. The application includes secure user authentication and authorization using JWT. Users can manage their personal tasks efficiently and monitor task completion status. This project demonstrates full-stack development concepts, RESTful API integration, and CRUD operations.
